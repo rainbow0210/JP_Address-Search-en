@@ -1,5 +1,5 @@
 # Discord_JP_Address-Search-en
-### Discord_JP_Address-Search-en Japanese Version! → [https://github.com/rainbow0210/Discord_JP_Address-Search](https://github.com/rainbow0210/Discord_JP_Address-Search)
+### Discord_JP_Address-Search-en Japanese Version! → [https://github.com/rainbow0210/JP_Address-Search](https://github.com/rainbow0210/JP_Address-Search)
 <!--I made this program in my university programming contest. !-->
 
 ## Use Language
